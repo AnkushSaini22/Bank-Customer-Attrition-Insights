@@ -33,23 +33,23 @@ The primary objective of this analysis is to uncover patterns related to custome
 
 ## Key Insights and Findings
 
-# 1. **Attrition Rates by Geography and Demographics**
+1. **Attrition Rates by Geography and Demographics**
    - The **Geography** column helped in segmenting customers based on their countries (France, Spain, Germany), and comparing attrition rates within each country.
    - We observed patterns in **Gender**, **Age**, and **Balance** that impact the likelihood of exiting the bank. For instance, certain countries and demographic groups (e.g., females in certain age brackets) have higher attrition rates.
 
-# 2. **Impact of Card Type and Customer Products**
+2. **Impact of Card Type and Customer Products**
    - Customers who hold **Diamond** or **Gold** cards tend to have different attrition patterns compared to other card types. A more in-depth analysis showed that customers with fewer **NumOfProducts** or no credit card (`HasCrCard = 0`) are more likely to exit.
 
-# 3. **Satisfaction Score and Exits**
+3. **Satisfaction Score and Exits**
    - A **lower Satisfaction Score** correlates with a higher probability of attrition. The analysis revealed that dissatisfied customers (those with lower satisfaction scores) are significantly more likely to leave the bank.
    
-# 4. **Tenure and Balance Correlation**
+4. **Tenure and Balance Correlation**
    - Customers with a **higher tenure** (longer bank relationship) are less likely to leave. Additionally, a **higher account balance** correlated with lower attrition rates.
 
-# 5. **Complaints and Exits**
+5. **Complaints and Exits**
    - Customers who have lodged complaints tend to have higher attrition rates. Complaints appear to be a strong predictor of exits, with the number of complaints being a potential indicator of dissatisfaction.
 
-# 6. **Gender-wise Analysis**
+6. **Gender-wise Analysis**
    - By grouping data based on **Gender**, the analysis showed differing attrition rates between male and female customers, with males exhibiting slightly higher attrition rates in some regions.
 
 ## Key Analysis Steps
