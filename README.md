@@ -1,4 +1,4 @@
-## Bank-Customer_Attrition_Insights
+## Bank-Customer-Attrition-Insights
 
 ## Project Overview
 
