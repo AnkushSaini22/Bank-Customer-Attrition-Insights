@@ -1,4 +1,4 @@
-## Bank-Customer-Attrition-Insights
+## Bank-Customer-Attrition-Insights-and-Product-Management-Strategy
 
 ## Project Overview
 
